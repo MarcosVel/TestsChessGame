@@ -1,0 +1,9 @@
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\ChessGame\Chess\ChessMoves\bin\Debug\netcoreapp3.1\ChessMoves.deps.json
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\ChessGame\Chess\ChessMoves\bin\Debug\netcoreapp3.1\ChessMoves.dll
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\ChessGame\Chess\ChessMoves\bin\Debug\netcoreapp3.1\ChessMoves.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\ChessGame\Chess\ChessMoves\obj\Debug\netcoreapp3.1\ChessMoves.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\ChessGame\Chess\ChessMoves\obj\Debug\netcoreapp3.1\ChessMoves.AssemblyInfoInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\ChessGame\Chess\ChessMoves\obj\Debug\netcoreapp3.1\ChessMoves.AssemblyInfo.cs
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\ChessGame\Chess\ChessMoves\obj\Debug\netcoreapp3.1\ChessMoves.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\ChessGame\Chess\ChessMoves\obj\Debug\netcoreapp3.1\ChessMoves.dll
+E:\Users\Usuario\Desktop\Marquin\C#\ObjectOrientedC#LinkedInCourse\ChessGame\Chess\ChessMoves\obj\Debug\netcoreapp3.1\ChessMoves.pdb
